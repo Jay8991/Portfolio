@@ -1,0 +1,163 @@
+body{
+    background-color: lightgrey;
+    margin: 0;
+}
+
+h1 {
+    /* margin-left: 37%; */
+    text-align: center;
+}
+
+h2 {
+    padding: 5px;
+}
+
+p {
+    text-align: center;
+}
+
+nav {
+    width: 84%;
+    height: 20px;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+span {
+    color: white;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: turquoise;
+}
+
+/* class */
+
+.backgroundOne {
+    width: 84%;
+    height: 84.6%;
+    background-color: white;
+}
+
+.bOneText { 
+    padding-bottom: 10px;
+}
+
+.uic {
+    display: block;
+    width: 80%;
+    height: 709px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.backgroundTwo {
+    width: 84%;
+    height: 40%;
+    background-color: white;
+
+}
+
+.bTwoText {
+    padding-bottom: 10px;
+}
+
+.poker {
+    display: block;
+    width: 80%;
+    height: 709px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.aboutMe {
+    position: fixed;
+    top: 80px;
+    left: 85%;
+    height: 250px;
+    width: 280px;
+    background-color: white;
+}
+
+img.me {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    padding-left: 10px;
+    float: left;
+}
+.aboutmetext {
+    display: block;
+    padding-left: 170px;
+    width: 100px;
+}
+
+.hobbies {
+    position: fixed;
+    top: 350px;
+    left: 85%;
+    height: 430px;
+    width: 280px;
+    background-color: white;
+}
+
+.followMe {
+    position: fixed;
+    top: 800px;
+    left: 85%;
+    height: 150px;
+    width: 280px;
+    background-color: white;
+}
+
+.linkedin {
+    color: black;
+    text-decoration: underline;
+}
+
+.followMeText {
+    padding: 5px;
+}
+
+.spicy {
+    margin-left: auto;
+    height: 100px;
+    width: 100px;
+}
+
+.java {
+    height: 100px;
+    width: 100px;
+}
+
+.basketball{
+    height: 100px;
+    width: 100px;
+}
+
+
+/* ID */
+#codingTemple {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#learnHTML {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#learnCSS {
+    padding-left: 10px;
+    padding-right: 20px;
+}
+
+#linkedin:hover {
+    color: cadetblue;
+}
